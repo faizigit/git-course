@@ -1,2 +1,4 @@
 Get the user's data...
 process the data
+
+create and avatar for the user in feature1

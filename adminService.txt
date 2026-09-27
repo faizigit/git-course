@@ -1,3 +1,4 @@
 Admin work
 add and remove the users
 change the roles
+manage the databases
